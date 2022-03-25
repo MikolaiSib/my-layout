@@ -1,0 +1,25 @@
+.projectsBox {
+    background-color: #cba0d9;
+    min-height: 100vh;
+}
+
+.container {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.title {
+    background-color: blanchedalmond;
+}
+
+.projects {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

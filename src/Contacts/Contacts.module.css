@@ -1,0 +1,32 @@
+.main {
+    background-color: aqua;
+    height: 100vh;
+}
+
+.container {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.title {
+    background-color: blanchedalmond;
+}
+
+.form {
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+input {
+    margin: 5px
+}
+textarea {
+    margin: 5px
+}
