@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/my-layout/static/css/main.797ded5e.css",
-    "main.js": "/my-layout/static/js/main.aee01e8e.js",
+    "main.css": "/my-layout/static/css/main.946cbaca.css",
+    "main.js": "/my-layout/static/js/main.ffd3070d.js",
     "static/js/787.b52c08af.chunk.js": "/my-layout/static/js/787.b52c08af.chunk.js",
     "static/media/What-is-Social-Networking.jpg.jpg": "/my-layout/static/media/What-is-Social-Networking.jpg.2df398ef6ad6ae08a323.jpg",
     "static/media/maxresdefault.jpg": "/my-layout/static/media/maxresdefault.cce88cb558cc17eb4539.jpg",
     "static/media/me.jpeg": "/my-layout/static/media/me.f1811ea48f2221138417.jpeg",
+    "static/media/react.jpg": "/my-layout/static/media/react.284ea22a33f05ce9c8a5.jpg",
     "static/media/Capture-8.png": "/my-layout/static/media/Capture-8.ba13f032d242d2208275.png",
+    "static/media/redux.png": "/my-layout/static/media/redux.74af04bc4926c552a6a4.png",
     "index.html": "/my-layout/index.html",
-    "main.797ded5e.css.map": "/my-layout/static/css/main.797ded5e.css.map",
-    "main.aee01e8e.js.map": "/my-layout/static/js/main.aee01e8e.js.map",
+    "main.946cbaca.css.map": "/my-layout/static/css/main.946cbaca.css.map",
+    "main.ffd3070d.js.map": "/my-layout/static/js/main.ffd3070d.js.map",
     "787.b52c08af.chunk.js.map": "/my-layout/static/js/787.b52c08af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.797ded5e.css",
-    "static/js/main.aee01e8e.js"
+    "static/css/main.946cbaca.css",
+    "static/js/main.ffd3070d.js"
   ]
 }
